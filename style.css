@@ -54,3 +54,6 @@ section{
     background-color: skyblue;
     color: black;
 }
+.main-pic{
+    display: flex;
+}
