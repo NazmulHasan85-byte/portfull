@@ -29,23 +29,27 @@ section{
 }
 .input-add{
     
-    box-shadow: 20px 15px 40px black;
+    box-shadow: 20px 15px 40px rgb(0, 0, 0);
     margin-right: 10%;
     margin-left: 10%;
     padding-top: 20px;
     padding-left: 20px;
-    padding-bottom: 25px;
-    margin margin-top: 30px;
-    
+    padding-bottom: 25px;   
+}
+.inb{
+    border-left: 10px solid;
+    border-image: linear-gradient(red , yellow);
+    border-image-slice: 1;
 }
 .img-add img{
     width: 80%;
 }
 .input{
     width: 70%;
-    border: solid rgb(75, 68, 68) 2px;
+    border-bottom: 2px solid rgb(51, 47, 47);
     padding: 5px;
-    background-color: rgb(186, 223, 238);
+    background-color: rgb(197, 238, 240);
+    color: rgb(22, 17, 17);
 }
 .hobe{
     text-decoration: none;
