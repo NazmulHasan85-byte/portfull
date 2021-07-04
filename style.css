@@ -10,7 +10,11 @@ body{
     color: rgb(241, 236, 228);
     text-align: center;
     padding: 25px 47%;
+    margin-bottom: 30px;
     
+}
+.heading{
+    font-size: 30px;
 }
 h1{
     font-size: 50px;
@@ -60,16 +64,17 @@ section{
 }
 .last{
     width: auto;
-    height: 300px;
+    height: 200px;
     background-color: rgb(105, 102, 96);
     color: white;
     padding-top: 60px;
     padding-left:30px ;
     margin-top: 60px;
+    margin-bottom: rgb(122, 122, 224);
 }
 .last h5{
     text-align: right;
-    padding-top: 170px;
+    padding-top: 70px;
     padding-right: 80px;
 
 }
